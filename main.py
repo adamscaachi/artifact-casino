@@ -1,10 +1,10 @@
 import math
 import numpy as np
 import matplotlib.pyplot as plt
-from Characters import Wanderer
-from Weapons import SkywardAtlas
-from Artifacts import Artifact, ArtifactSet
-from Build import Build
+from characters import Wanderer
+from weapons import SkywardAtlas
+from artifacts import Artifact, ArtifactSet
+from build import Build
 
 # Configure build
 character = Wanderer()
